@@ -18,7 +18,7 @@ This repository contains solutions and implementations for exercises from Chapte
   - [Simulate the Random Policy in Gridworld](#simulate_the_random_policy_in_gridworld)
   - [Write a Program to Simulate Random Actions in the Grid World Environment](#write_a_program_to_simulate_random_actions_in_the_grid_world_environment)
 
-## Introduction
+## Introduction 
 
 This project is part of my journey in learning reinforcement learning, focusing on the foundational concepts introduced in the first chapter of the book **"Reinforcement Learning: An Introduction"** by Richard S. Sutton and Andrew G. Barto. The exercises help build a solid understanding of reinforcement learning principles and their practical implementations. Each exercise has been carefully completed to ensure a comprehensive grasp of the material.
 
