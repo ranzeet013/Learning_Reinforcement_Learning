@@ -1,4 +1,4 @@
-# Reinforcement Learning Exercises - Chapter One 
+# Reinforcement Learning Exercises - Chapter One  
 
 This repository contains solutions and implementations for exercises from Chapter One of the book **"Reinforcement Learning: An Introduction"** by Richard S. Sutton and Andrew G. Barto.
 
