@@ -3,7 +3,7 @@
 This repository contains solutions and implementations for exercises from Chapter One of the book **"Reinforcement Learning: An Introduction"** by Richard S. Sutton and Andrew G. Barto.
 
 ## Table of Contents
-- [Introduction](#introduction) 
+- [Introduction](#introduction)  
 - [Exercises](#exercises)
   - [Define and Implement the Action Space for a Simple Environment](#define_and_implement_the_action_space_for_a_simple_environment)
   - [Define and Implement the State Space for a Simple Environment](#define_and_implement_the_state_space_for_a_simple_environment)
